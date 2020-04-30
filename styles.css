@@ -1,0 +1,85 @@
+/* Index Typography */
+body.index {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    background-attachment: scroll;
+    background-image: url(Cajon3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+  }
+
+nav {
+    font-family: 'Manrope', sans-serif;
+    color: white;
+}
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  .jumbotron {
+    /* Background */
+    background-color: transparent;
+  
+    /* Fonts */
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    text-shadow: 2px 2px 2px black;
+    font-size: 30px;
+    font-weight: 700x
+    
+  }
+  /* Style buttons */
+.btn {
+    background-color: teal; 
+    border: none; 
+    color: white;
+    font-family:'Roboto', sans-serif;
+    text-shadow: none; 
+    size: 20px;
+    font-size: 20px; 
+    cursor: 1; 
+  }
+  
+  /* Darker background on mouse-over */
+  .btn:hover {
+    background-color: grey
+  }
+
+
+body.trips {
+    font-family: 'Manrope', sans-serif;
+    background-attachment: scroll;
+    background-image: url(Bahia2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+body.contact {
+    font-family: 'Manrope', sans-serif;
+    background-attachment: scroll;
+    background-image: url(Contact.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+  }
+
+ul {
+    list-style-position:inside;
+    align-items: left;
+}
+
+.footer {
+    font-family:'Manrope', sans-serif;
+    font-size: medium;
+    text-align: right
+
+}
+    
